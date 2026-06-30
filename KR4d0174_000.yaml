@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0174/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部四
+  hash: sha256:feea65c2c5f7b24c3923896ddfefeaca5f2adb12a64602844adb735e91a1782a
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0174_WYG_000-1a, image: WYG1133/WYG1133-0809a.png}
+body:
+  text: 提要灊山集三卷别集類三宋臣等謹案灊山集三卷宋朱翌撰翌有猗覺寮雜記已著録其集目見於諸書者宋史藝文志作四十五卷詩三卷陳氏書録解題作三卷焦氏經籍志作二卷而周必大平園集又云其子軧等類公遺稿凡四十四卷卷目彼此互異蓋必大所言即宋志之四十五卷乃其文集陳氏所云三卷者則専指詩集經籍志所載亦其詩集而又訛三卷為二卷也今文集已不可見詩集亦無傳本惟永樂大典所收篇什尚多謹裒而集之釐為三卷以還其原目翌父載上嘗從蘇軾黃庭堅遊翌承其家學而才力又極富健故所著作頗有元祐遺風集中五七言古體皆極跌宕縱橫近體亦偉麗伉健喜以成語屬對率妥帖自然陳鵠耆舊續聞劉克莊後村詩話王應麟困學紀聞皆採其佳句盛相推挹蓋其筆力排奡實足睥睨一時與南宋時平易嘽緩之音牽率潦倒之習逈乎不同周必大序以杜牧擬之非溢美也今陳鵠等所摘諸句雖不能悉見全篇然三卷之內菁華具存亦足窺豹一班矣乾隆四十六年九月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:92407abf4e0d027ae609cca586923f3ea8937c3d608c42fe1a2fab4cb93cef64
+metadata:
+  title: 灊山集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:57:28.863800'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4d0174/KR4d0174_000.txt
+hash: sha256:a93bbfa35085132ec6b1e9b0f3d59e13b81ec91f3e5ffabf6646f222cad11f33
